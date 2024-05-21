@@ -330,7 +330,7 @@ pyzmq==25.1.0
     #   ipykernel
     #   jupyter-client
     #   jupyter-server
-requests==2.31.0
+requests==2.32.0
     # via
     #   jupyterlab-server
     #   plasmapy (setup.py)
